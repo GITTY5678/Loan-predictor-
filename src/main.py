@@ -17,3 +17,4 @@ column_variants(df,pass_column_more_unique(df))
     
 if __name__ == "__main__":
     print("This is the main function of the program")
+    
